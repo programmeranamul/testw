@@ -1,0 +1,14 @@
+form{
+    display: flex;
+}
+nav{
+    background-color: #3A42FF;
+}
+.nav-item{
+    color: white !important;
+    font-weight: 700;
+    opacity: 0.5;
+}
+.active{
+    opacity: 1;
+}

@@ -1,0 +1,19 @@
+.card img{
+    width: 145px;
+    padding-top: 20px;
+}
+.card{
+    background-color: #007BFF !important;
+    height: 400px;
+    width: 95%;
+}
+.card .team-title{
+    color: white;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.card-text{
+    color: lightblue;
+    margin-bottom: 20px;
+}

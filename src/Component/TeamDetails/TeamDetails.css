@@ -1,0 +1,37 @@
+.productDetailsBannerOverly{
+    height: 250px;
+    background-color: rgba(255, 255, 255, .6);
+}
+.productDetailsBannerOverly img{
+    width: 150px;   
+}
+.team-info{
+    background-color: #3A42FF;
+}
+.team-info h6{
+    margin-top: 12px;
+}
+.productDetailsDescription{
+    background-color: #0E0A2B;
+}
+.socail-icon-container svg{
+    font-size: 50px;
+    margin: 0 10px;
+    color: white;
+    font-size: 40px;
+    margin: 0 10px;
+    padding: 7px;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px !important;
+}
+.twitter-icon{
+    background-color: #1DA1F2;
+}
+
+.facebook-icon{
+    background-color: #3B5998;
+}
+.youtube-icon{
+    background-color: red;
+}
